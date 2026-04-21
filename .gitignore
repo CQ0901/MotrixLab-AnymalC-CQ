@@ -4,6 +4,7 @@ runs
 logs
 .idea
 .claude
+.codex
 .venv
 node_modules
 docs/build
