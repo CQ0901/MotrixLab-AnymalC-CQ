@@ -35,4 +35,5 @@ from . import (
     point_mass,  # noqa: F401
     rm65_open_cabinet,  # noqa: F401
     shadow_hand_repose,  # noqa: F401
+    student_anymal_c,  # noqa: F401
 )
